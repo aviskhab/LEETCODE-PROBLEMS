@@ -1,2 +1,31 @@
-# LEETCODE-PROBLEMS
-My LeetCode solutions in Python 3, covering data structures, algorithms, problem-solving techniques, and coding interview preparation. Includes clean code, explanations, and time and space complexity analysis.
+LeetCode Solutions 🧩
+
+Welcome to my LeetCode Solutions repository! This repository contains my solutions to LeetCode problems, implemented in Python 3.
+
+The goal of this repository is to improve my problem-solving skills, strengthen my understanding of data structures and algorithms, and prepare for technical coding interviews.
+
+📌 What's Inside?
+
+Each solution aims to include:
+
+✅ Clean and readable Python 3 code
+📝 Problem descriptions and explanations
+⏱️ Time complexity analysis
+💾 Space complexity analysis
+🎯 Efficient approaches to solving coding problems
+
+
+🎯 Goals
+Practice coding consistently.
+Improve algorithmic thinking and problem-solving.
+Learn efficient solutions and optimization techniques.
+Build a portfolio of coding practice.
+Prepare for technical interviews.
+💻 Language Used
+Python 3
+
+This repository is a continuous learning journey. I will keep updating it as I solve more LeetCode problems and explore new algorithms and data structures.
+
+If you find this repository helpful, feel free to ⭐ star it!
+
+Happy Coding! 💻
