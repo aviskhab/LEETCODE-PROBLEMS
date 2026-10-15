@@ -1,6 +1,6 @@
 LeetCode Solutions 🧩
 
-Welcome to my LeetCode Solutions repository! This repository contains my solutions to LeetCode problems, implemented in Python 3.
+Welcome to my LeetCode Solutions repository! This repository contains my solutions to LeetCode problems, implemented in Python 3 and Python .
 
 The goal of this repository is to improve my problem-solving skills, strengthen my understanding of data structures and algorithms, and prepare for technical coding interviews.
 
@@ -23,6 +23,7 @@ Build a portfolio of coding practice.
 Prepare for technical interviews.
 💻 Language Used
 Python 3
+Python
 
 This repository is a continuous learning journey. I will keep updating it as I solve more LeetCode problems and explore new algorithms and data structures.
 
