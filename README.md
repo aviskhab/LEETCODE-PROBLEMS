@@ -30,3 +30,23 @@ This repository is a continuous learning journey. I will keep updating it as I s
 If you find this repository helpful, feel free to ⭐ star it!
 
 Happy Coding! 💻
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+<!---LeetCode Topics End-->
