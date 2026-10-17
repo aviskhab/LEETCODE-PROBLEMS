@@ -49,4 +49,12 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
