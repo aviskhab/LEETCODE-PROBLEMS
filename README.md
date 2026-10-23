@@ -54,12 +54,14 @@ Happy Coding! 💻
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
 ## Bit Manipulation
 |  |
 | ------- |
