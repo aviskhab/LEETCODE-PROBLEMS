@@ -53,8 +53,13 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
