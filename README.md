@@ -37,6 +37,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0038-count-and-say) |
 | [2409-count-days-spent-together](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
