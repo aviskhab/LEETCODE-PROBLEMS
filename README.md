@@ -60,6 +60,7 @@ Happy Coding! 💻
 | [0036-valid-sudoku](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0040-combination-sum-ii) |
 | [1254-number-of-closed-islands](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
@@ -92,6 +93,7 @@ Happy Coding! 💻
 | ------- |
 | [0037-sudoku-solver](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0040-combination-sum-ii) |
 ## Algorithm X
 |  |
 | ------- |
