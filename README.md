@@ -39,12 +39,14 @@ Happy Coding! 💻
 | [0032-longest-valid-parentheses](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0044-wildcard-matching) |
 | [2409-count-days-spent-together](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0044-wildcard-matching) |
 ## Stack
 |  |
 | ------- |
@@ -141,4 +143,12 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0043-multiply-strings) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
