@@ -38,6 +38,7 @@ Happy Coding! 💻
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0043-multiply-strings) |
 | [2409-count-days-spent-together](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
@@ -82,6 +83,7 @@ Happy Coding! 💻
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0043-multiply-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2409-count-days-spent-together) |
@@ -135,4 +137,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
