@@ -47,6 +47,7 @@ Happy Coding! 💻
 | [0032-longest-valid-parentheses](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0045-jump-game-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
 |  |
@@ -69,6 +70,7 @@ Happy Coding! 💻
 | [0040-combination-sum-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0045-jump-game-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1254-number-of-closed-islands) |
@@ -151,6 +153,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
 | ------- |
