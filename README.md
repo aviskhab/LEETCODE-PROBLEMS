@@ -98,6 +98,7 @@ Happy Coding! 💻
 | ------- |
 | [0043-multiply-strings](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2409-count-days-spent-together) |
@@ -174,6 +175,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0050-powx-n) |
 ## Sliding Window
 |  |
 | ------- |
