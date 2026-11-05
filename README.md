@@ -72,6 +72,7 @@ Happy Coding! 💻
 | [0042-trapping-rain-water](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0047-permutations-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1254-number-of-closed-islands) |
@@ -117,6 +118,7 @@ Happy Coding! 💻
 | [0039-combination-sum](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0047-permutations-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Happy Coding! 💻
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0047-permutations-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Simulation
