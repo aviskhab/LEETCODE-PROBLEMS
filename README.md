@@ -50,6 +50,7 @@ Happy Coding! 💻
 | [0042-trapping-rain-water](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
 |  |
@@ -78,6 +79,7 @@ Happy Coding! 💻
 | [0048-rotate-image](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1254-number-of-closed-islands) |
@@ -194,4 +196,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
