@@ -83,6 +83,7 @@ Happy Coding! 💻
 | [0053-maximum-subarray](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0056-merge-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1254-number-of-closed-islands) |
@@ -175,6 +176,7 @@ Happy Coding! 💻
 | ------- |
 | [0047-permutations-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0056-merge-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -209,4 +211,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
