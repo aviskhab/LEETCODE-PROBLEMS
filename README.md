@@ -85,6 +85,7 @@ Happy Coding! 💻
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -174,6 +175,7 @@ Happy Coding! 💻
 | [0049-group-anagrams](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2747-count-zero-request-servers) |
 ## Simulation
 |  |
@@ -185,6 +187,7 @@ Happy Coding! 💻
 | ------- |
 | [0044-wildcard-matching](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0045-jump-game-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Recursion
 |  |
 | ------- |
