@@ -85,6 +85,7 @@ Happy Coding! 💻
 | [0054-spiral-matrix](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0057-insert-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1254-number-of-closed-islands) |
