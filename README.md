@@ -52,6 +52,7 @@ Happy Coding! 💻
 | [0045-jump-game-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0055-jump-game) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
 |  |
@@ -90,6 +91,7 @@ Happy Coding! 💻
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
@@ -181,6 +183,7 @@ Happy Coding! 💻
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Simulation
 |  |
 | ------- |
