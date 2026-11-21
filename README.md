@@ -54,6 +54,7 @@ Happy Coding! 💻
 | [0045-jump-game-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0062-unique-paths) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
@@ -117,6 +118,7 @@ Happy Coding! 💻
 | [0048-rotate-image](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0062-unique-paths) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2409-count-days-spent-together) |
@@ -238,4 +240,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0061-rotate-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
