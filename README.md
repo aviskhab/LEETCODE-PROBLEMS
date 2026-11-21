@@ -177,6 +177,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0061-rotate-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Monotonic Stack
 |  |
@@ -233,4 +234,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3331-find-subtree-sizes-after-changes) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
