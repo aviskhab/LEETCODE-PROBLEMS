@@ -57,6 +57,7 @@ Happy Coding! 💻
 | [0055-jump-game](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
@@ -93,6 +94,7 @@ Happy Coding! 💻
 | [0057-insert-interval](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1254-number-of-closed-islands) |
@@ -145,6 +147,7 @@ Happy Coding! 💻
 | [0054-spiral-matrix](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 ## Backtracking
 |  |
