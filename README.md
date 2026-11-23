@@ -115,6 +115,7 @@ Happy Coding! 💻
 | [0033-search-in-rotated-sorted-array](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -131,6 +132,7 @@ Happy Coding! 💻
 | [0062-unique-paths](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
@@ -272,4 +274,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
