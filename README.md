@@ -43,6 +43,7 @@ Happy Coding! 💻
 | [0049-group-anagrams](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -118,6 +119,7 @@ Happy Coding! 💻
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Math
 |  |
@@ -128,6 +130,7 @@ Happy Coding! 💻
 | [0060-permutation-sequence](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
@@ -214,6 +217,7 @@ Happy Coding! 💻
 | [0043-multiply-strings](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |
