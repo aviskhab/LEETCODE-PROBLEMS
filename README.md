@@ -99,6 +99,7 @@ Happy Coding! 💻
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2747-count-zero-request-servers) |
@@ -127,6 +128,7 @@ Happy Coding! 💻
 | [0062-unique-paths](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0062-unique-paths) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Hash Table
@@ -252,4 +254,16 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
