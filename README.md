@@ -60,6 +60,7 @@ Happy Coding! 💻
 | [0062-unique-paths](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
@@ -133,6 +134,7 @@ Happy Coding! 💻
 | [0066-plus-one](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
@@ -278,4 +280,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
