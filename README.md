@@ -44,6 +44,7 @@ Happy Coding! 💻
 | [0058-length-of-last-word](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0071-simplify-path) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -68,6 +69,7 @@ Happy Coding! 💻
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
 | ------- |
