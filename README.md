@@ -45,6 +45,7 @@ Happy Coding! 💻
 | [0065-valid-number](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0072-edit-distance) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -62,6 +63,7 @@ Happy Coding! 💻
 | [0063-unique-paths-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0072-edit-distance) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
