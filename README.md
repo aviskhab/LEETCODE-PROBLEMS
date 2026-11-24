@@ -105,6 +105,7 @@ Happy Coding! 💻
 | [0066-plus-one](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1254-number-of-closed-islands) |
@@ -211,6 +212,7 @@ Happy Coding! 💻
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Monotonic Stack
 |  |
@@ -222,6 +224,7 @@ Happy Coding! 💻
 | [0047-permutations-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -265,6 +268,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 ## Tree
 |  |
 | ------- |
@@ -305,4 +309,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3411-maximum-subarray-with-equal-products) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
