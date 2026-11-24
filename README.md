@@ -103,6 +103,7 @@ Happy Coding! 💻
 | [0063-unique-paths-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1254-number-of-closed-islands) |
@@ -153,6 +154,7 @@ Happy Coding! 💻
 | [0037-sudoku-solver](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [2747-count-zero-request-servers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -166,6 +168,7 @@ Happy Coding! 💻
 | [0059-spiral-matrix-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [1254-number-of-closed-islands](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 ## Backtracking
 |  |
