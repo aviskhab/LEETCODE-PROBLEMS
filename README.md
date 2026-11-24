@@ -108,6 +108,7 @@ Happy Coding! 💻
 | [2747-count-zero-request-servers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
@@ -139,6 +140,7 @@ Happy Coding! 💻
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Hash Table
 |  |
@@ -239,6 +241,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2747-count-zero-request-servers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
@@ -284,4 +287,12 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
