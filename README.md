@@ -118,6 +118,7 @@ Happy Coding! 💻
 | [3411-maximum-subarray-with-equal-products](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3934-smallest-unique-subarray](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Happy Coding! 💻
 | [0069-sqrtx](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3934-smallest-unique-subarray](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Happy Coding! 💻
 | [2747-count-zero-request-servers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3934-smallest-unique-subarray](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -313,4 +316,16 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
