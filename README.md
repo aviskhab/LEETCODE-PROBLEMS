@@ -47,6 +47,7 @@ Happy Coding! 💻
 | [0071-simplify-path](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0079-word-search) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -108,6 +109,7 @@ Happy Coding! 💻
 | [0074-search-a-2d-matrix](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0079-word-search) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1254-number-of-closed-islands) |
@@ -180,6 +182,7 @@ Happy Coding! 💻
 | [0064-minimum-path-sum](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 ## Backtracking
 |  |
@@ -193,6 +196,7 @@ Happy Coding! 💻
 | [0052-n-queens-ii](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -206,6 +210,7 @@ Happy Coding! 💻
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
