@@ -46,6 +46,7 @@ Happy Coding! 💻
 | [0067-add-binary](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -160,6 +161,7 @@ Happy Coding! 💻
 | [0041-first-missing-positive](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [2747-count-zero-request-servers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -256,6 +258,7 @@ Happy Coding! 💻
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [2747-count-zero-request-servers](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/2747-count-zero-request-servers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aviskhab/LEETCODE-PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
